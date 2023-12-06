@@ -120,7 +120,7 @@
     "metro-config": "^0.72.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-native": "0.71.4",
+    "react-native": "0.71.5",
     "react-native-blob-util": "^0.17.3",
     "react-native-gesture-handler": "~2.9.0",
     "react-native-pdf": "github:wonday/react-native-pdf#5b1d3b0393920a8aeb962651c66c56da3e83940c",
